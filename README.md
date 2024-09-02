@@ -1,4 +1,4 @@
-# Retake_FP_Lab1_ru
+# Retake_FP_ru
 
 ## Задание 1: Ряд Тейлора
 
